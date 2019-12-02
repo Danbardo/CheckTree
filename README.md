@@ -1,5 +1,5 @@
 # CheckTree
-A Vue.js component which generates a nested list of checkbox inputs and allows for adding / editing and deleting nodes.
+A recursive Vue.js component which generates a nested list of checkbox inputs and allows for adding / editing and deleting nodes.
 
 # Demo
 
