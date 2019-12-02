@@ -5,7 +5,7 @@ A recursive Vue.js component which generates a nested list of checkbox inputs an
 
 ![Demo](/demo.gif)
 
-You can also the component [here](https://jsfiddle.net/danbardo/35bztwao/6/)
+You can also the component [here](https://jsfiddle.net/danbardo/35bztwao/6/).
 
 # Installation
 
