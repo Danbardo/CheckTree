@@ -9,6 +9,6 @@ You can also the component [here](https://jsfiddle.net/danbardo/35bztwao/6/)
 
 # Installation
 
-Copy the Node.vue component into your project and import in by following the example in App.vue.
+Copy the Node.vue component into your project and import it by following the example in App.vue.
 
 The initial data can be found in store.js, but the component can be easily adapted to work with your Vuex store.
